@@ -18,3 +18,5 @@
 * The cathodes (-ve) of the segments of all 7-segment displays are connected together, i.e., cathode of segment ‘A’ of all displays are connected together, cathode of segment ‘B’ are connected together, and so on. 
 
 * Regulator IC 7805 is used to provide 5V supply to the Arduino, as the input voltage is 9V.
+
+* The DS 3231 is  a I2C Crystal Oscillator  ( https://www.maximintegrated.com/en/products/digital/real-time-clocks/DS3231.html  )  . It keeps time accurate to 2 ppm and provides the Arduino with the necessary clock signal.
