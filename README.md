@@ -1,6 +1,8 @@
 # Arduino Clock
 ## A digital clock using the Arduino Pro Mini
 
+This is an Arduino mini based digital clock which displays time on a set of four 7-segment displays. It uses a I2C crystal oscillator (DS 3231 - https://www.maximintegrated.com/en/products/digital/real-time-clocks/DS3231.html ) to keep time accurate to 2 ppm, which is about 30 seconds in an year.
+
 ![Arduino Clock Wiring Diagram](https://github.com/ajithvasudevan/ArduinoCLock/raw/master/Clock%20-%20%20Wiring.png)
 
 
@@ -19,4 +21,4 @@
 
 * Regulator IC 7805 is used to provide 5V supply to the Arduino, as the input voltage is 9V.
 
-* The DS 3231 is  a I2C Crystal Oscillator  ( https://www.maximintegrated.com/en/products/digital/real-time-clocks/DS3231.html  )  . It keeps time accurate to 2 ppm and provides the Arduino with the necessary clock signal.
+* The DS 3231 is  a I2C Crystal Oscillator. It keeps time and provides the Arduino with the necessary clock signal.
