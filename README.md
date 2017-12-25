@@ -1,7 +1,7 @@
 # Arduino Clock
 ## A digital clock using the Arduino Pro Mini
 
-![Arduino Clock Wiring Diagram](https://raw.githubusercontent.com/ajithvasudevan/ArduinoCLock/master/Clock%20-%20Wiring.png)
+![Arduino Clock Wiring Diagram](https://github.com/ajithvasudevan/ArduinoCLock/raw/master/Clock%20-%20%20Wiring.png)
 
 
 
