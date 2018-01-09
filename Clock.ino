@@ -4,13 +4,6 @@
 RTC_DS3231 rtc;
 int colonPin = 13;
 
-/*
-* Arduino 4x7 LED Display
-* Displays numbers ranging from 0 through 1023
-* Test Code displays the value of a sensor connected to the analog input A0
-* Inspired by a code found in the Arduino Cookbook
-* Tested at TechNode Protolabz/July 2014
-*/
 // bits representing segments A through G (and decimal point) for numerals 0-9
 const int numeral[10] = {
    //ABCDEFG /dp
