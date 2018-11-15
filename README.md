@@ -22,3 +22,6 @@ This is an Arduino mini based digital clock which displays time on a set of four
 * Regulator IC 7805 is used to provide 5V supply to the Arduino, as the input voltage is 9V.
 
 * The DS 3231 is  a I2C Crystal Oscillator. It keeps time and provides the Arduino with the necessary clock signal.
+
+
+![Arduino Clock PCB](https://github.com/ajithvasudevan/ArduinoCLock/raw/master/IMG_20181013_164144.jpg)
