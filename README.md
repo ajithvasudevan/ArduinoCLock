@@ -24,4 +24,6 @@ This is an Arduino mini based digital clock which displays time on a set of four
 * The DS 3231 is  a I2C Crystal Oscillator. It keeps time and provides the Arduino with the necessary clock signal.
 
 
+An image of the PCB for this Clock is shown below:
+
 ![Arduino Clock PCB](https://github.com/ajithvasudevan/ArduinoCLock/raw/master/IMG_20181013_164144.jpg)
